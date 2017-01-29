@@ -13,9 +13,10 @@ vista inicial:
 
 ![alt tag](https://i.gyazo.com/dcca66ea286b76ce43e9f7a7ce1afc71.png)
 
+
 Así deberian quedar todos los discos para poder ganar: 
 
 ![alt tag](https://i.gyazo.com/aecd0878a732604a1d5751a2e39db4a1.png)
 
 
-**Juego programador por Francisco José Pereira Alvarado**
+Juego programado por **Francisco José Pereira Alvarado**
