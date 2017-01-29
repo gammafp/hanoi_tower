@@ -1,0 +1,32 @@
+div#contenedor {
+    display: flex;
+    flex-direction: row;
+}
+div#contenedor > div {
+    width: 100px;
+    height: 200px;
+    border: 1px solid #0000a0;
+    margin-left: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+div#torre_1 {
+    width: 60px;
+    height: 25px;
+    background-color: #004080
+}
+
+div#torre_2 {
+    width: 80px;
+    height: 25px;
+    background-color: #ff8040
+}
+
+div#torre_3 {
+    width: 90px;
+    height: 25px;
+    background-color: #400080
+}
