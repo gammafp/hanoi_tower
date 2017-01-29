@@ -10,9 +10,11 @@ Para iniciar el juego entra en la carpeta src y ejecuta el **index.html**, el ju
 Se ha usado el api de HTML5 para el drag and drop
 
 vista inicial:
+
 ![alt tag](https://i.gyazo.com/dcca66ea286b76ce43e9f7a7ce1afc71.png)
 
 Así deberian quedar todos los discos para poder ganar: 
+
 ![alt tag](https://i.gyazo.com/aecd0878a732604a1d5751a2e39db4a1.png)
 
 
