@@ -18,5 +18,6 @@ Así deberian quedar todos los discos para poder ganar:
 
 ![alt tag](https://i.gyazo.com/aecd0878a732604a1d5751a2e39db4a1.png)
 
+[DEMO](https://gammafp.github.io/hanoi_tower/)
 
 Juego programado por **Francisco José Pereira Alvarado**
